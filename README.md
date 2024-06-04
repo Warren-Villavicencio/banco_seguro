@@ -7,7 +7,7 @@ Uvicorn: Servidor ASGI para ejecutar la aplicación FastAPI.
 Pydantic: Para la validación y gestión de datos basados en modelos de Python.
 SQLAlchemy: Un ORM para interactuar con la base de datos.
 PyMySQL: Un adaptador de base de datos MySQL para Python.
-ngrok: Para exponer la api 
+ngrok: Para que la base de datos tenga salida al exterior 
 
 Para que el programa funcione correctamente se debe instalar lo siguiente:
 
